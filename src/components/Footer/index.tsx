@@ -8,7 +8,7 @@ export default function Footer() {
             <div className={styles.subContainer}>
                 <div className={styles.copywrite}>© Hayden Leung</div>
                 <div>|</div>
-                <Link href="" className={styles.link}>Vanplan Project</Link>
+                <Link href="https://github.com/Haydenleung/landing-page" className={styles.link}>Vanplan Project</Link>
             </div>
         </main >
 
