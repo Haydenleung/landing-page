@@ -71,7 +71,7 @@
 .graphic {
     position: absolute;
     opacity: 0.4;
-    height: 100%;
+    height: 100vh;
     z-index: 1;
     width: 100%;
 }
